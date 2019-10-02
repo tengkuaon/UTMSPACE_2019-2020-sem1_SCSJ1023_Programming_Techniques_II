@@ -6,8 +6,14 @@ Source code and other relevant files for the SCSJ1023 Programming Techniques II 
 
 *During class sessions, [TDM-GCC 4.9.2](http://tdm-gcc.tdragon.net/) as compiler with [Orwell Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) as IDE were used in a Windows system. However, I had my own development setup when I had to use Windows, [GCC 9.1.0](https://gcc.gnu.org) as compiler installed in an [MSYS2](http://www.msys2.org/) environment, with [Visual Studio Code](https://code.visualstudio.com/) as IDE.*
 
-```c
-// UTMSPACE_2019-2020-sem1_SCSJ1023_Programming_Techniques_II
-// SX180357CSJS04
-// Randy Tan Shaoxian
+```cpp
+// This repo is by Randy Tan Shaoxian (SX180357CSJS04)
+//
+// Some tasks done in collaboration with Charlene Ng Andrew (SX180355CSJS04)
+//
+// Lecturer: Ms. Ajune Wanis Ismail
+// https://people.utm.my/ajune/scsj1023-19/
 ```
+
+* ![Week 1 (14 September 2019)](week_01_14-Sep-2019/)
+* ![Week 2 (22 September 2019)](week_02_22-Sep-2019/)
