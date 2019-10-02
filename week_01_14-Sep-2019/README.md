@@ -6,5 +6,7 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
 
 * Lab assessment – Defining Class | ![download](Class.pdf)
     * ![My source files](lab_assessment_–_defining_class/)
+        * followed provided code
 * Lab assessment – Constructor in Class | [download](The-Class-Constructor.pdf)
     * ![My source files](lab_assessment_–_constructor_in_class/)
+        * followed provided code
