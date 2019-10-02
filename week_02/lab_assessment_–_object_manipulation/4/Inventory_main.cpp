@@ -15,6 +15,6 @@ int main ()
     cout << "Item Description: " << stock.getDescription() << endl;
     cout << "Cost: RM" << stock.getCost() << endl;
     cout <<"Units on hand: " << stock.getUnits() << endl;
-    // system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }

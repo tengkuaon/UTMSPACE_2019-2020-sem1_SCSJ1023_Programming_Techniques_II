@@ -24,6 +24,6 @@ int main()
 
     cout << "This program demonstrates an object\n";
     cout << "with a constructor and destructor.\n";
-    system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }

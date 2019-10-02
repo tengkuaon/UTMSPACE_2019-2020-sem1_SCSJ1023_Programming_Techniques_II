@@ -17,6 +17,6 @@ int main ()
     cout << "Potongan untuk diskaun adalah RM" << itemSale.getDis() << endl;
     cout << "Harge selepas diskaun RM";
     cout << itemSale.getTotal() << endl;
-    // system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }

@@ -31,6 +31,6 @@ int main ()
     cout << "Description: " << milk.getDescription() << endl;
     cout << "Cost: RM" << milk.getCost() << endl;
     cout <<"Units on Hand: " << milk.getUnits() << endl;
-    // system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }

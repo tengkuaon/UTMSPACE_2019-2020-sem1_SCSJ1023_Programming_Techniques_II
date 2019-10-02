@@ -85,45 +85,27 @@ void displayPersonalInfo (PersonalInfo);
 
 int main ()
 {
-    int input_count = 0;
-    cout << "How many people? ";
-    cin >> input_count;
-    PersonalInfo personalInfo[input_count];
+    // Create the first instance of PersonalInfo.
+    PersonalInfo me("Ajunewanis", 
+                    "GMM", 
+                    25, 
+                    "123");
+    
+    PersonalInfo wanis("Wanis",
+                       "N28 FSKSM",
+                       50,
+                       "234");
 
-    for (int i = 0; i < input_count; ++i)
-    {
-        cout << "--- " << i + 1 << " ---" << endl;        
-        if (i == 0) cin.ignore(1, '\n');
+    PersonalInfo ajune("Ajune",
+                       "UTM",
+                       30,
+                       "567");
 
-        char n[SIZE], c;
-        int num;
-        int k = 0;
-
-        cout << "Name: ";
-        cin.getline(n, SIZE);
-        personalInfo[i].setName(n);        
-
-        cout << "Address: ";
-        cin.getline(n, SIZE);
-        personalInfo[i].setAddress(n);
-        
-        cout << "Age: ";
-        cin >> num;
-        personalInfo[i].setAge(num);
-        
-        cin.ignore(1, '\n');
-        
-        cout << "Phone: ";
-        cin.getline(n, SIZE);
-        personalInfo[i].setPhone(n);        
-    }
-
-    for (int i = 0; i < input_count; ++i) 
-    {
-        displayPersonalInfo(personalInfo[i]);
-    }
-
-    // system("pause"); // Not available on Linux
+    // Display the data in each object.
+    displayPersonalInfo(me);
+    displayPersonalInfo(wanis);
+    displayPersonalInfo(ajune);
+    // system("pause"); // Not available in Linux
 
     return 0;
 }

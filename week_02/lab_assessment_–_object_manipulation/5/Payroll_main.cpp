@@ -37,6 +37,6 @@ int main ()
         cout << "\tEmployee #" << (count + 1) << ": ";
         cout << setw(8) << employees[count].getTotalPay() << endl;
     }
-    // system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }

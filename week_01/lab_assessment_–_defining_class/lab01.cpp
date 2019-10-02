@@ -84,6 +84,6 @@ int main()
     cout << "Width: " << box.getWidth() << endl;
     cout << "Length: " << box.getLength() << endl;
     cout << "Area: " << box.getArea() << endl;
-    // system("pause"); // Not available on Linux
+    // system("pause"); // Not available in Linux
     return 0;
 }
