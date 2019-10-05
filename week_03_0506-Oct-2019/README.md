@@ -17,7 +17,7 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
 * Lab assessment – Copy constructor, Overloading operator, Friend keyword | ![download](copyconstructor.pdf)
     * My source files:
         * ![copy constructor](lab_assessment_–_copy_constructor/copy_constructor.cpp)
-            followed provided code in the PDF
+            * followed provided code in the PDF
 * Hands-on (Group of two/three) – Exercise 2 (2.5%) | ![download](A-box.pdf)
     * ![My source files](exercise_02)
         * our own code, collaborated with ![Charlene A](https://github.com/Chikoness)
