@@ -22,17 +22,17 @@ void Box::setHeight (float Height)
     height = Height;
 }
 
-float Box::getWidth ()
+float Box::getWidth () const
 {
     return width;
 }
 
-float Box::getLength ()
+float Box::getLength () const
 {
     return length;
 }
 
-float Box::getHeight ()
+float Box::getHeight () const
 {
     return height;
 }

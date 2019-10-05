@@ -19,9 +19,9 @@ class Box
         void setHeight (float);
 
         // Accessors (a. k. a. getters)
-        float getWidth ();
-        float getLength ();
-        float getHeight ();
+        float getWidth () const;
+        float getLength () const;
+        float getHeight () const;
 
         // Method that calculates the volume
         float calculateVolume ();
