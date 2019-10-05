@@ -11,6 +11,7 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
         * ![copy constructor](lab_activity_–_object_manipulation/02_copy_constructor)
             * ![without copy constructor](lab_activity_–_object_manipulation/02_copy_constructor/02a_without_copy_constructor)
                 * followed provided code in the PDF
+            * followed provided code in the PDF
         * ![operator overloading](lab_activity_–_object_manipulation/03_operator_overloading/)
             * followed provided code in the PDF
 * Lab assessment – Copy constructor, Overloading operator, Friend keyword | ![download](copyconstructor.pdf)
