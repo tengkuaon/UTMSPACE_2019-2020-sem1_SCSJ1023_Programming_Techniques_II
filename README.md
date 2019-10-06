@@ -10,7 +10,7 @@ Source code and other relevant files for the SCSJ1023 Programming Techniques II 
 
 **Dear classmates,**
 
-**My intention is for the code in this repo to be used as a reference for when you are stuck and not sure what else to do, rather than for anyone to blindly copy from them.**
+**My intention is for the code in this repo to be used as a reference for when you are stuck and not sure what else to do, rather than for anyone to blindly copy from.**
 **I hope they help, however little, with your understanding of traditional C++ programming.**
 **I am sorry if there are mistakes in my code, please let me know. I apologize should my code fail to help you.**
 **I am also sorry if I am late to update the repo by adding code from the latest tasks provided by our lecturer.**
