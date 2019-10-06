@@ -12,7 +12,7 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
                     * followed provided code in the PDF
 * Lab assessment – Copy constructor, Overloading operator, Friend keyword | ![download](../week_03_05-Oct-2019/copyconstructor.pdf)
     * My source files:
-        * ![copy constructor const in reference parameter](lab_assessment_–_copy_constructor/copy_constructor_constref.cpp)
+        * ![copy constructor, const in reference parameter](lab_assessment_–_copy_constructor/copy_constructor_constref.cpp)
             * followed provided code in the PDF
         * ![operator overloading](lab_assessment_–_operator_overloading)
             * followed provided code in the PDF
