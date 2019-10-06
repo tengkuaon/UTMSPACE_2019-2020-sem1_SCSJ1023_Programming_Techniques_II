@@ -39,7 +39,19 @@ class StudentTestScores
             }
         }
 
-        // void operator= (const StudentTestScores &right)
+        void operator= (const StudentTestScores &right)
+        {
+            delete [] testScores;
+            studentName = right.studentName;
+            numTestScores = right.numTestScores;
+            testScores = new double [numTestScores];
+            for (int i = 0; i < numTestScores; ++i)
+            {
+                testScores[i] = right.testScores[i];
+            }
+        }
+
+        // const StudentTestScores operator= (const StudentTestScores &right)
         // {
         //     delete [] testScores;
         //     studentName = right.studentName;
@@ -49,34 +61,8 @@ class StudentTestScores
         //     {
         //         testScores[i] = right.testScores[i];
         //     }
+        //     return *this;
         // }
-
-        const StudentTestScores operator= (const StudentTestScores &right)
-        {
-            delete [] testScores;
-            studentName = right.studentName;
-            numTestScores = right.numTestScores;
-            testScores = new double [numTestScores];
-            for (int i = 0; i < numTestScores; ++i)
-            {
-                testScores[i] = right.testScores[i];
-            }
-            return *this;
-        }
-
-        const StudentTestScores operator= (const StudentTestScores &right)
-        {
-            delete [] testScores;
-            studentName = right.studentName;
-            numTestScores = right.numTestScores;
-            
-            testScores = new double [numTestScores];
-            for (int i = 0; i < numTestScores; ++i)
-            {
-                testScores[i] = right.testScores[i];
-            }
-            return *this;
-        }
 
         ~StudentTestScores ()
         {
