@@ -8,7 +8,7 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
     * my source files:
         * ![operator overloading, overloaded operator returns an object](lab_activity_–_object_manipulation/03_operator_overloading/)
             * followed provided code in the PDF
-                * ![operator overloading, overloaded operator returns void](lab_activity_–_object_manipulation/03_operator_overloading/return_void)
+                * ![operator overloading, overloaded operator does not return anything (returns void)](lab_activity_–_object_manipulation/03_operator_overloading/return_void)
                     * followed provided code in the PDF
 * Lab assessment – Copy constructor, Overloading operator, Friend keyword | ![download](../week_03_05-Oct-2019/copyconstructor.pdf)
     * my source files:
