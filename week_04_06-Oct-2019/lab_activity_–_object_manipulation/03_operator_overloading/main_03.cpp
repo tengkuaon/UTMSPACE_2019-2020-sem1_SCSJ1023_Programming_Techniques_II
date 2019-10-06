@@ -16,9 +16,9 @@ int main ()
     student2 = student1;
 
     for (int i = 0; i < student1.getNumTestScores(); ++i)
-    {
-        std::cout << student1.getTestScore(i) << std::endl;
-        std::cout << student2.getTestScore(i) << std::endl;
+    {        
+        std::cout << student1.getStudentName() << " " << student1.getTestScore(i) << std::endl;
+        std::cout << student2.getStudentName() << " " << student2.getTestScore(i) << std::endl;
     }
 
     return 0;

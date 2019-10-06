@@ -34,4 +34,5 @@ Source code and other relevant files for the SCSJ1023 Programming Techniques II 
 
 * ![Week 1 (14 September 2019)](week_01_14-Sep-2019/)
 * ![Week 2 (22 September 2019)](week_02_22-Sep-2019/)
-* ![Week 3 (5 October 2019 - 6 October 2019)](week_03_0506-Oct-2019/)
+* ![Week 3 (5 October 2019)](week_03_05-Oct-2019/)
+* ![Week 4 (6 October 2019)](week_04_06-Oct-2019/)
