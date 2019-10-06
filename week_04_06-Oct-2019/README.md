@@ -13,9 +13,9 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
         * ![copy constructor const in reference parameter](lab_assessment_–_copy_constructor/copy_constructor_constref.cpp)
             * followed provided code in the PDF
         * ![operator overloading, overloaded operator returns an object](lab_assessment_–_operator_overloading)
+            * followed provided code in the PDF
             * ![operator overloading, overloaded operator returns void](lab_assessment_–_operator_overloading/return_void)
                 * followed provided code in the PDF
-            * followed provided code in the PDF
 * Accessing Objects in an Array – ![download](Array-of-object.pdf)
     * My source files:
         * ![array of objects](accessing_objects_in_an_array)
