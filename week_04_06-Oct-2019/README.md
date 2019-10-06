@@ -14,8 +14,6 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
             * followed provided code in the PDF
         * ![operator overloading](lab_assessment_–_operator_overloading)
             * followed provided code in the PDF
-        * ![friend function](lab_assessment_–_friend_function/main_lab5_friend_function.cpp)
-            * followed provided code in the PDF
 * Accessing Objects in an Array – ![download](Array-of-object.pdf)
     * My source files:
         * ![array of objects](accessing_objects_in_an_array)
