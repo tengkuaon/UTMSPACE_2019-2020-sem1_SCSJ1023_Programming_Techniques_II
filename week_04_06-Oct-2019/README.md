@@ -6,16 +6,16 @@ Taken from Ms. Ajune's page: https://people.utm.my/ajune/scsj1023-19/
 
 * Lab Activity – Object Manipulation| ![download](../week_03_05-Oct-2019/Activity.pdf)
     * My source files:
-        * ![operator overloading](lab_activity_–_object_manipulation/03_operator_overloading/)
+        * ![operator overloading, overloaded operator returns an object](lab_activity_–_object_manipulation/03_operator_overloading/)
             * followed provided code in the PDF
+                * ![operator overloading, overloaded operator returns void](lab_activity_–_object_manipulation/03_operator_overloading/return_void)
+                    * followed provided code in the PDF
 * Lab assessment – Copy constructor, Overloading operator, Friend keyword | ![download](../week_03_05-Oct-2019/copyconstructor.pdf)
     * My source files:
         * ![copy constructor const in reference parameter](lab_assessment_–_copy_constructor/copy_constructor_constref.cpp)
             * followed provided code in the PDF
-        * ![operator overloading, overloaded operator returns an object](lab_assessment_–_operator_overloading)
+        * ![operator overloading](lab_assessment_–_operator_overloading)
             * followed provided code in the PDF
-            * ![operator overloading, overloaded operator returns void](lab_assessment_–_operator_overloading/return_void)
-                * followed provided code in the PDF
 * Accessing Objects in an Array – ![download](Array-of-object.pdf)
     * My source files:
         * ![array of objects](accessing_objects_in_an_array)
